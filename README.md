@@ -5,6 +5,9 @@ ABC-Finder i.e., A Docker-based package for the identification of ABC proteins i
 # Workflow
 ![abc-finder: workflow](https://github.com/lynngroup/abcfinder/blob/master/ABC-finder.png)
 Fig : Generalized workflow and implementation of ABC-Finder. 
+
+![abc-finder: workflow](https://github.com/LynnGroup-SCIS-JNU/ABC-finder/blob/master/ABC-finder%20Result.png)
+Fig : ABC-Finder Result. 
 # Licence
 This program is released as open source software under the terms of [GNU GPLv3](https://github.com/lynngroup/abcfinder/blob/master/LICENSE).
 
